@@ -1,0 +1,50 @@
+header{
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+body{
+    margin-left: 318px;
+    margin-right: 318px;
+
+}
+
+nav{
+    text-align: right;
+    margin-left:auto;
+    font-size: 25px;
+    
+}
+
+a:hover{
+    color:grey
+    
+}
+
+.flex-container{
+    display:flex;
+}
+
+ul{
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.mainVideo{
+    text-align:right;
+}
+
+#theWeekendFilms{
+    font-size: 50px;
+    text-align: end;
+    margin-bottom: 0px;
+    margin-top:15px;
+}
+
+#aVMCompany{
+    margin-left:10px;
+
+}
